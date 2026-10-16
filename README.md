@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Projeto Calculadora de IMC
+Projeto Calculadora de IMC para console. Recebe peso e altura e calcula o Índice de Massa Corporal.
 
 ## Wireframe
 
